@@ -42,7 +42,7 @@
 #### 克隆代码
 
 ```js
-git clone 
+git clone https://github.com/mgy1021/e-shopChart.git
 ```
 
 #### 安装依赖
